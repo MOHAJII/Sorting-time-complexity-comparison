@@ -24,5 +24,5 @@ Assurez-vous d'avoir les éléments suivants installés sur votre système :
 
 Clonez le dépôt et accédez au répertoire du projet :
 ```bash
-git clone https://github.com/votre_nom_dutilisateur/Sorting-time-complexity-comparison.git
+git clone https://github.com/MOHAJII/Sorting-time-complexity-comparison.git
 cd Sorting-time-complexity-comparison
